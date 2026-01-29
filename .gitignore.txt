@@ -1,0 +1,39 @@
+config.py
+.env
+.key
+.secret
+
+# Отчеты
+.xlsx
+.csv
+
+# Python
+__pycache__
+.py[cod]
+$py.class
+.so
+.Python
+build
+develop-eggs
+dist
+downloads
+eggs
+.eggs
+lib
+lib64
+parts
+sdist
+var
+wheels
+sharepython-wheels
+.egg-info
+.installed.cfg
+.egg
+MANIFEST
+
+# IDE
+.vscode
+.idea
+.swp
+.swo
+~
